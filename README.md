@@ -8,7 +8,7 @@
 
 <br/>
 
-![Visitor Counter](https://visitcount.itsvg.in/api?id=Vipulgupta23&label=Profile%20Views&color=0&icon=5&pretty=true)
+![Profile Views](https://komarev.com/ghpvc/?username=Vipulgupta23&color=58a6ff&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
 
@@ -92,7 +92,5 @@
 ---
 
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-
 </div>

@@ -4,13 +4,11 @@
 
 <br/>
 
-<!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Cloud+Architect+%E2%98%81%EF%B8%8F;Hackathon+Builder+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- Visitor Counter -->
-<img src="https://profile-counter.glitch.me/Vipulgupta23/count.svg" alt="Visitor Counter"/>
+![Visitor Counter](https://visitcount.itsvg.in/api?id=Vipulgupta23&label=Profile%20Views&color=0&icon=5&pretty=true)
 
 </div>
 
@@ -76,6 +74,18 @@
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/Vipulgupta23/Vipulgupta23/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+## 📫 Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vipul-gupta-4278b4297/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vipulgupta1100@gmail.com)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Vipulgupta23)
 
 </div>
 

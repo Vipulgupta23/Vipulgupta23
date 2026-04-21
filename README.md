@@ -1,98 +1,88 @@
-<h1 align="center">Hi there, I'm Vipul Gupta 👋</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey%2C%20I'm%20Vipul%20%F0%9F%91%8B&fontSize=40&fontColor=fff&animation=twinkling&fontAlignY=38&desc=CS%20%40%20SRMIST%20%7C%20Builder%20%7C%20Researcher&descAlignY=58&descSize=16"/>
 
----
+<br/>
 
-## 👨‍💻 About Me
+<!-- Typing animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;AI+%2F+ML+Enthusiast+%F0%9F%A4%96;Cloud+Architect+%E2%98%81%EF%B8%8F;Hackathon+Builder+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%8C%9F)](https://git.io/typing-svg)
 
-- 🔭 I'm currently working on **cutting-edge projects** in IoT, AI, and Web Development.  
-- 👨‍🎓 I'm a **B.Tech 3rd-year student at SRM University**.  
-- 🧠 Currently deepening my knowledge in **DSA, Full Stack Web Dev, and Artificial Intelligence**.  
-- 📱 Passionate about building **real-world solutions** that make an impact.  
-- 🌐 Love open source & **collaborating with developers** globally.  
-- 🛠️ I enjoy hackathons, coding challenges, and turning ideas into action.  
+<br/>
 
----
+<!-- Visitor Counter -->
+<img src="https://profile-counter.glitch.me/Vipulgupta23/count.svg" alt="Visitor Counter"/>
 
-## 🌱 Currently Learning
-
-- 🤖 Artificial Intelligence (ML + LLMs like Mistral AI)  
-- 🕸️ Full Stack Web Development (HTML, CSS, JS, React, PHP, SQL)  
-- 🔐 Cybersecurity (Deauth & Evil Twin Attack Toolkit using ESP32)  
-- 🌿 Agritech + Edtech Applications with AI  
-- 📚 Deepening my understanding of **Computer Organization and Architecture (COA)**  
+</div>
 
 ---
 
-## 💡 Interests
+## 🛠️ Tech Stack
 
-- 💻 Web & App Development  
-- 🔒 Cybersecurity & Ethical Hacking  
-- 🧠 AI/ML & NLP  
-- 🌾 Agritech and EdTech  
-- 🎯 Problem Solving and Competitive Programming  
+<div align="center">
 
----
+**Languages**
 
-## 🤝 Let's Collaborate On
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-- 👨‍🏫 Peer-to-Peer Learning Platforms  
-- 🌾 Agritech for Smart Farming  
-- 📊 Data-driven Web Applications  
-- 🤖 AI Chatbots and Assistants  
-- 📱 Innovative EdTech Solutions  
+**Frameworks & Tools**
 
----
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-## 📫 How to Reach Me
+**AI / ML**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/vipul-gupta-4278b4297/)  
-[![Email](https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail)](mailto:vipulgupta1100@gmail.com)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
----
+**Cloud & DevOps**
 
-## 😄 Pronouns
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
-**He / Him / His**
-
----
-
-## ⚡ Fun Fact
-
-> I believe **technology should uplift lives**, not just solve problems.  
-> I love to explore how **AI, IoT, and Web** can combine to **create magic** 🌟  
-> Also... I make a killer cup of ☕ while debugging code 😄  
-
----
-
-## 🛠 Tech Stack
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)  
-![HTML](https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=black)  
-![React](https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![PHP](https://img.shields.io/badge/PHP-8892be?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white)  
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vipulgupta23&show_icons=true&theme=radical" width="450"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipulgupta23&theme=radical" width="400"/>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Vipulgupta23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" width="48%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Vipulgupta23&theme=tokyonight&hide_border=true&background=0d1117&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" width="48%"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vipulgupta23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" width="38%"/>
+
+</div>
 
 ---
 
-## 🎉 Let's Connect and Build Something Awesome Together!
+## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200" />
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Vipulgupta23/Vipulgupta23/output/github-contribution-grid-snake-dark.svg" />
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+</div>
